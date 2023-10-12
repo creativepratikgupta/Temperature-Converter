@@ -14,7 +14,7 @@ CSS And JAVASCRIPT.
 1. Clone this repository: 
 ```bash 
 
-git clone https://github.com/anubhavv106/Temperature-Converter
+git clone https://github.com/creativepratikgupta/Temperature-Converter
    ```
 2. Open the `index.html` file in your browser.
 
