@@ -8,8 +8,6 @@ CSS And JAVASCRIPT.
 - Simple Temprature Converter Web App.
 - Responsive design with a good effect for a modern look.
 - Soft-looking keys for a user-friendly experience.
-- Reset Button.
-- Change button which will Change the Input values.
 
 ## 🛠️ Usage
 
